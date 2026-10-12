@@ -1,3 +1,5 @@
 # Çağatay Ölmez — app-ads.txt
 # Unity Ads (Unity organization core ID)
 unity.com, 18968510236034, DIRECT, 96cabb5fbdde37a7
+# Google AdMob (Başkan Simülatörü)
+google.com, pub-8999221195196014, DIRECT, f08c47fec0942fa0
